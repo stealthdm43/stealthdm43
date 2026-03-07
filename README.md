@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
 - [Honeypot Homelab]()
 
 <h2>Certifications </h2>

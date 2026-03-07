@@ -1,10 +1,15 @@
-<h1>Hi, I'm Kurtis! <br/><a href="https://www.linkedin.com/in/kmatousek26">Cybersecurtity Student at Wgu</a>
+<h1>Hi, I'm Kurtis! <br/><a href="https://www.linkedin.com/in/kmatousek26">Cybersecurity Student at Wgu</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
+- [Honeypot Homelab]()
+
+<h2>Certifications </h2>
+
+- Google CyberSecurity Professional
+
+- Comptia A+
 
 <h2> 🤳 Connect with me:</h2>
 

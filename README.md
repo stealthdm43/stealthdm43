@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Honeypot Homelab]()
+- [Honeypot Homelab](https://github.com/stealthdm43/Honeypot-Homelab/tree/main)
 
 <h2>Certifications </h2>
 

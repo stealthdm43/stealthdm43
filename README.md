@@ -8,7 +8,7 @@
 
 <h2>Certifications </h2>
 
-- Google CyberSecurity Professional
+- [Google CyberSecurity Professional](https://i.imgur.com/zOuCCxS.png)
 
 - Comptia A+
 

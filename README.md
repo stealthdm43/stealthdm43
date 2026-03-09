@@ -10,7 +10,7 @@
 
 - [Google CyberSecurity Professional](https://i.imgur.com/zOuCCxS.png)
 
-- Comptia A+
+- [Comptia A+](https://i.imgur.com/BTwj4GS.png)
 
 <h2> 🤳 Connect with me:</h2>
 

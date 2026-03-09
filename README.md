@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [HoneyPot Homelab](https://github.com/stealthdm43/Honeypot-Homelab/tree/main)
+- [Azure Honeypot Deployment](https://github.com/stealthdm43/Honeypot-Homelab/tree/main)
  
-- [Securing the HoneyPot Lab](https://github.com/stealthdm43/Securing-The-HoneyPot/tree/main)
+- [Honeypot Hardening with Microsoft Sentinel](https://github.com/stealthdm43/Securing-The-HoneyPot/tree/main)
 
 <h2>Certifications </h2>
 

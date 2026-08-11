@@ -12,6 +12,10 @@
 
 - [Comptia A+](https://i.imgur.com/BTwj4GS.png)
 
+- [Comptia Network+](https://imgur.com/hpWK7ij)
+  
+- [Comptia Security+](https://imgur.com/0JxAbGh)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

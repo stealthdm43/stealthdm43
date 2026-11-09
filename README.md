@@ -10,15 +10,17 @@
 
 <h2>Certifications </h2>
 
-- [Google CyberSecurity Professional](https://i.imgur.com/zOuCCxS.png)
+- [Google CyberSecurity Professional](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/google_cybersecurity.png)
 
-- [Comptia A+](https://i.imgur.com/BTwj4GS.png)
+- [Comptia A+](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/comptiaA%2B.png)
 
-- [Comptia Network+](https://imgur.com/hpWK7ij)
+- [Comptia Network+](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/Network%2B.png)
   
 - [Comptia Security+](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/Comptia%20Security%2B.png)
 
-- [ITIL 4 Foundations](https://imgur.com/jUBbNdl)
+- [ITIL 4 Foundations](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/ITIL%20foundations.png)
+
+- [LPI Linux Essentials](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/LPI%20Linux%20Essentials.png)
 
 <h2> 🤳 Connect with me:</h2>
 

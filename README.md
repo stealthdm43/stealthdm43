@@ -1,6 +1,8 @@
 <h1>Hi, I'm Kurtis! <br/><a href="https://www.linkedin.com/in/kmatousek26">Cybersecurity Student at Wgu</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>  
+
+- [Linux Server](https://github.com/stealthdm43/LinuxServer-it-operations-lab/blob/main/README.md)
 
 - [Azure Honeypot Deployment](https://github.com/stealthdm43/Honeypot-Homelab/tree/main)
  

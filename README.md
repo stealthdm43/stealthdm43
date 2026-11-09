@@ -16,7 +16,7 @@
 
 - [Comptia Network+](https://imgur.com/hpWK7ij)
   
-- [Comptia Security+](https://imgur.com/0JxAbGh)
+- [Comptia Security+](https://github.com/stealthdm43/stealthdm43/blob/main/Certification-pngs/Comptia%20Security%2B.png)
 
 - [ITIL 4 Foundations](https://imgur.com/jUBbNdl)
 
